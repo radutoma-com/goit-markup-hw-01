@@ -1,3 +1,3 @@
 # My Project
 
-[Live](https://github.com/radutoma-com/goit-markup-hw-01)
+[Live](https://radutoma-com.github.io/goit-markup-hw-01/)
